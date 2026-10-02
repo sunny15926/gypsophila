@@ -2,6 +2,9 @@
 
 > 从了解计算机开始，从用 VS Code 调试预览，再到把它推送到 GitHub —— 每一步对我这个初学者来说都是全新的挑战。
 
+## 🚀 点击进入网页
+
+👉 **[点我打开 iROBOT 小队介绍主页](https://sunny15926.github.io/gypsophila/)**
 
 ## 前言
 
